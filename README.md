@@ -1,4 +1,4 @@
-# Supervised-and-Unsupervised-Learning
+# Supervised and Unsupervised Learning
 The project is based on the popular "Heart" dataset from the UCI Machine Learning Repository.
 
 The aim of the project is to showcase the main usefult steps to carry out a statistical analysis. \
